@@ -1,12 +1,9 @@
 {
-	"temp": {
-	
+	"temp": {	
 		"min": 11.24,
 		"max": 19.01
-
 	},
 	"weather": {
-
 		"id": 801,
 		"condition": "Clouds",
 		"description": "few clouds",
