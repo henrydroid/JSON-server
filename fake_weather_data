@@ -2,7 +2,7 @@
     "total_count": 4,
     "temp": {	
       "min": 11.24,
-      "max": 19.01
+                    "max": 19.01
      },
     "weather": {
      "id": 801,
