@@ -6,7 +6,7 @@
 	"weather": {
 		"id": 801,
 		"condition": "Clouds",
-		"description": "few clouds",
+		"description": "few clouds"
 	},
 	"pressure": 1023.51,
 	"humidity": 87
