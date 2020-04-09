@@ -1,14 +1,14 @@
 {
 "total_count": 4,
 "temp": {	
-	"min": 11.24,
-	"max": 19.01
-	 },
+  "min": 11.24,
+  "max": 19.01
+  },
 "weather": {
-	"id": 801,
-	"condition": "Clouds",
-	"description": "few clouds"
-	},
+  "id": 801,
+  "condition": "Clouds",
+  "description": "few clouds"
+  },
 "pressure": 1023.51,
 "humidity": 87
 }
