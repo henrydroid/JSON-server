@@ -1,0 +1,11 @@
+{
+  "data": {
+    "location": "Philippines",
+    "confirmed": 10794,
+    "deaths": 719,
+    "recovered": 1924,
+    "active": 8151
+  },
+  "dt": "05-10-2020",
+  "ts": 1588982400
+}
