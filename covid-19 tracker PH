@@ -1,9 +1,9 @@
 {
   "data": {
     "location": "Philippines",
-    "confirmed": 10994,
-    "deaths": 829,
-    "recovered": 1944,
+    "confirmed": 10995,
+    "deaths": 830,
+    "recovered": 1945,
     "active": 8151
   },
   "dt": "05-11-2020",
